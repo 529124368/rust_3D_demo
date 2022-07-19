@@ -2,7 +2,6 @@
 rust bevy引擎开发的demo演示
 
 ## 如何运行游戏demo
-git clone
 cargo run --release
 
 ## 操作说明
